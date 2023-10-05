@@ -4,3 +4,4 @@ youtube-transcript-api==0.6.1
 llama_cpp_python==0.2.11
 llama-hub==0.0.26
 llama-index==0.8.32
+urllib3==1.26.16
